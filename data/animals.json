@@ -153,6 +153,16 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "Wiley",
+      "species": "Coyote",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "16"
     }
   ]
 }
